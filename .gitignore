@@ -1,0 +1,22 @@
+# Environment-specific configuration files
+**/appsettings.json
+
+# bin and obj directories
+**/bin/
+**/obj/
+
+# Build system generated files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.ds_store
+*.idea
+
+# Build and nuget cache files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/*.csproj.nuget.*
+**/project.assets.json
+**/project.n
